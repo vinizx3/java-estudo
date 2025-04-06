@@ -6,7 +6,7 @@ public class Matriz {
         int [][] arrInt = new int[3][];
 
         arrInt[0] = new int[2];
-        arrInt[1] = arrnum;
+        arrInt[1] = arrNum;
         arrInt[2] = new int[]{1,2,3,4,5,6};
 
         int[][] arrInt2 = {{0,0}, {0,1,2}, {1,2,3,4,5,6}};
