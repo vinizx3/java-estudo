@@ -1,4 +1,4 @@
-package variaveis;
+package introducao.variaveis;
 import java.util.Locale;
 
 public class ex001 {

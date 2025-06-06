@@ -1,4 +1,4 @@
-package arrays.application;
+package introducao.arrays.application;
 
 public class Foreach {
     public static void main(String[] args) {

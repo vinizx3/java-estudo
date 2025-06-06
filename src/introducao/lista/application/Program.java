@@ -1,4 +1,4 @@
-package lista.application;
+package introducao.lista.application;
 
 import java.util.ArrayList;
 import java.util.List;

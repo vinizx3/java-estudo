@@ -1,6 +1,6 @@
-package course.application;
+package poo.course.application;
 
-import course.entities.Product;
+import poo.course.entities.Product;
 import java.util.Locale;
 import java.util.Scanner;
 

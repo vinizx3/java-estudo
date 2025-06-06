@@ -1,6 +1,6 @@
-package arrays.application;
+package introducao.arrays.application;
 
-import arrays.entites.Products;
+import introducao.arrays.entites.Products;
 import java.util.Locale;
 import java.util.Scanner;
 

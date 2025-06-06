@@ -1,6 +1,6 @@
-package course.application;
+package poo.course.application;
 
-import course.entities.Retangle;
+import poo.course.entities.Retangle;
 import java.util.Locale;
 import java.util.Scanner;
 

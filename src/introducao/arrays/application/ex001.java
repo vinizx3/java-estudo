@@ -1,4 +1,4 @@
-package arrays.application;
+package introducao.arrays.application;
 
 import java.util.Locale;
 import java.util.Scanner;

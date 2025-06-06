@@ -1,4 +1,4 @@
-package matriz.application;
+package introducao.matriz.application;
 
 import java.util.Locale;
 import java.util.Scanner;

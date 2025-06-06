@@ -1,6 +1,6 @@
-package encapsulamento.application;
+package poo.encapsulamento.application;
 
-import encapsulamento.entities.Product;
+import poo.encapsulamento.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;

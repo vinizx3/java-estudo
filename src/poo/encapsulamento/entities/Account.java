@@ -1,4 +1,4 @@
-package encapsulamento.entities;
+package poo.encapsulamento.entities;
 
 public class Account{
     private int number;

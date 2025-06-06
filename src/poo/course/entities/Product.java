@@ -1,4 +1,4 @@
-package course.entities;
+package poo.course.entities;
 
 public class Product {
     public String name;

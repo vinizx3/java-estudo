@@ -1,6 +1,6 @@
-package course.application;
+package poo.course.application;
 
-import course.util.Calculator;
+import poo.course.util.Calculator;
 
 import java.util.Locale;
 import java.util.Scanner;

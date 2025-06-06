@@ -1,4 +1,4 @@
-package arrays.entites;
+package introducao.arrays.entites;
 
 public class Room {
     private String name;

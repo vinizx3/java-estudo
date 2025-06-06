@@ -1,4 +1,4 @@
-package estruturas_repetitivas;
+package introducao.estruturas_repetitivas;
 
 import java.util.Scanner;
 

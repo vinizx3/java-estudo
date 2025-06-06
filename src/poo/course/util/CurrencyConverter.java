@@ -1,4 +1,4 @@
-package course.util;
+package poo.course.util;
 
 public class CurrencyConverter {
     public static final double iof = 6.0;

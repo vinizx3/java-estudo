@@ -1,6 +1,6 @@
-package course.application;
+package poo.course.application;
 
-import course.util.CurrencyConverter;
+import poo.course.util.CurrencyConverter;
 import java.util.Locale;
 import java.util.Scanner;
 

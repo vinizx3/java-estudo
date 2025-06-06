@@ -1,4 +1,4 @@
-package arrays.entites;
+package introducao.arrays.entites;
 
 public class Person {
     private String name;
