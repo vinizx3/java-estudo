@@ -1,4 +1,4 @@
-package introducao.lista.entities;
+package poo.lista.entities;
 
 public class Employee {
     private String name;

@@ -1,4 +1,4 @@
-package introducao.lista.application;
+package poo.lista.application;
 
 import java.util.ArrayList;
 import java.util.List;

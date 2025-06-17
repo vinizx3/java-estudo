@@ -1,4 +1,4 @@
-package introducao.matriz.application;
+package poo.matriz.application;
 
 public class MatrizForEach {
     public static void main(String[] args) {
