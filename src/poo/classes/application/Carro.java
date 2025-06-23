@@ -1,12 +1,12 @@
-package poo.classes.entities;
+package poo.classes.application;
 
-public class Carro {
+import poo.classes.entities.Carro;
+public class ex001 {
     private String marca;
     private String modelo;
     private int ano;
-
+    
     public Carro(){
-
     }
     public Carro(String marca, String modelo){
         this.marca = marca;
@@ -21,5 +21,15 @@ public class Carro {
         System.out.println("Marca: " + marca);
         System.out.println("Modelo: " + modelo);
         System.out.println("Ano: " + ano);
+    }
+    public static void main(String[] args) {
+        Carro carro1 = new Carro();
+        carro1.exibirDetalhes();
+
+        Carro carro2 = new Carro("chevrolet","astra");
+        carro2.exibirDetalhes();
+
+        Carro carro3 = new Carro("honda", "civic ", 2009);
+        carro3.exibirDetalhes();
     }
 }
