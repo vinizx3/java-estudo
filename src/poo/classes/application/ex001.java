@@ -1,12 +1,10 @@
 package poo.classes.application;
-
-import poo.classes.entities.Carro;
-public class ex001 {
+class Carro{
     private String marca;
     private String modelo;
     private int ano;
-    
-    public Carro(){
+
+    public Carro() {
     }
     public Carro(String marca, String modelo){
         this.marca = marca;
@@ -22,6 +20,9 @@ public class ex001 {
         System.out.println("Modelo: " + modelo);
         System.out.println("Ano: " + ano);
     }
+}
+
+public class ex001 {
     public static void main(String[] args) {
         Carro carro1 = new Carro();
         carro1.exibirDetalhes();
