@@ -41,8 +41,8 @@ class Caminhao extends Veiculo1{
 
 public class ex001 {
     public static void main(String[] args) {
-        Onibus onibus = new Onibus("007", "2007", 7);
-        Caminhao caminhao = new Caminhao("008", "2008", 8);
+        Veiculo1 onibus = new Onibus("007", "2007", 7);
+        Veiculo1 caminhao = new Caminhao("008", "2008", 8);
 
         onibus.exibirInformacoes();
         System.out.println("-----------");
