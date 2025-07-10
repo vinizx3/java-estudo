@@ -3,7 +3,7 @@ package poo.generics;
 class Box<T>{
     private T boxItem;
 
-    public void StoreItem(T boxItem){
+    public void storeItem(T boxItem){
         this.boxItem = boxItem;
     }
     public T takeItem(){
@@ -15,15 +15,12 @@ public class GenericsTest {
     public static void main(String[] args) {
         //criando um objeto genérico para guardar Strings
         Box<String> text = new Box<>();
-        text.StoreItem("Texto genérico");
-        String genericText = text.takeItem();
-        System.out.println(genericText);
+        text.storeItem("Texto genérico");
+        System.out.println(text.takeItem());
 
         //criando um objeto genérico para guardar numeros
         Box<Integer> num = new Box<>();
-        Integer genericNum = Integer.valueOf(33);
-        num.StoreItem(genericNum);
-        Integer redeemedValue = num.takeItem();
-        System.out.println(redeemedValue);
+        num.storeItem(33);
+        System.out.println(num.takeItem());
     }
 }

@@ -11,6 +11,7 @@ class InformaRegras{
 }
 
 public class Previdência {
+    @SuppressWarnings("deprecation")
     public static void main(String[] args) {
         InformaRegras regras = new InformaRegras();
 
